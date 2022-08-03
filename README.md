@@ -6,7 +6,11 @@
 
 
 
-在线体验：[https://yuindex.com](https://yuindex.com)
+在线体验：[https://lianxia.vercel.app/#/](https://lianxia.vercel.app/#/)  `或` [https://lianxia-1muy4s0pq-lianxia2020.vercel.app/#/](https://lianxia-1muy4s0pq-lianxia2020.vercel.app/#/) 
+
+注: <--- 后面这个速度快一点
+
+> ----> [https://yuindex.com](https://yuindex.com)  &nbsp; &nbsp; &nbsp;注: 该链接已经无法打开，建议看上面那个!
 
 视频演示：[https://www.bilibili.com/video/BV19B4y1Y7m8/](https://www.bilibili.com/video/BV19B4y1Y7m8/)
 
