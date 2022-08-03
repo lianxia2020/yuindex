@@ -10,7 +10,7 @@
 
 注: <--- 后面这个速度快一点
 
-> ----> [https://yuindex.com](https://yuindex.com)  &nbsp; &nbsp; &nbsp;注: 该链接已经无法打开，建议看上面那个!
+> 注: [原链接(https://yuindex.com)](https://yuindex.com)已经无法打开，建议看上面那个!
 
 视频演示：[https://www.bilibili.com/video/BV19B4y1Y7m8/](https://www.bilibili.com/video/BV19B4y1Y7m8/)
 
