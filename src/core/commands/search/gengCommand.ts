@@ -5,7 +5,7 @@ import { CommandType } from "../../command";
  * @author Lianxia
  */
 const gengCommand: CommandType = {
-  func: "geng",
+  func: "cg",
   name: "城管",
   alias: ["Lianxia"],
   params: [
