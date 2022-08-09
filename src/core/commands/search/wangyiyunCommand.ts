@@ -5,7 +5,7 @@ import { CommandType } from "../../command";
  * @author yupi
  */
 const wangyiyunCommand: CommandType = {
-  func: "wangyiyun",
+  func: "wyy",
   name: "网易云搜索",
   alias: [],
   params: [
