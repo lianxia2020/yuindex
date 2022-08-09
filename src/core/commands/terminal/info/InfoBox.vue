@@ -1,6 +1,9 @@
 <template>
-  <div>关于本站：YuIndex 极客范儿的浏览器主页</div>
+  <div>关于本站：Lianxia</br>
+  <a href="https://lianxia.icu/">Lianxia</a>
+  </div>
   <div>
+  https://github.com/lianxia2020/yuindex
     <a href="https://github.com/liyupi/yuindex" target="_blank">
       代码开源，欢迎 star 和贡献~
     </a>
