@@ -41,7 +41,7 @@
 
 ### 1 分钟上手使用
 
-请打开网站：https://yuindex.com
+请打开网站：https://lianxia.vercel.app/#/
 
 然后在网站内依次输入以下命令：
 
@@ -128,7 +128,6 @@ history
 - 更换背景 background
 - 听音乐 music
 - 摸鱼小游戏 moyu
-- 坤坤 ikun
 - 其他。。。
 
 
