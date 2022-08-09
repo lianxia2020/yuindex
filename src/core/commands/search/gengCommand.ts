@@ -1,13 +1,13 @@
 import { CommandType } from "../../command";
 
 /**
- * 查梗（小鸡词典）命令
- * @author yupi
+ * 城管
+ * @author Lianxia
  */
 const gengCommand: CommandType = {
   func: "geng",
-  name: "梗搜索",
-  alias: ["xiaoji"],
+  name: "城管",
+  alias: ["Lianxia"],
   params: [
     {
       key: "word",
@@ -27,7 +27,8 @@ const gengCommand: CommandType = {
   action(options, terminal) {
     const { _, self } = options;
     const word = _.length > 0 ? _[0] : "";
-    const targetLink = `https://jikipedia.com/search?phrase=${word}`;
+    const targetLink = `http://xszc.cswu.cn/`;
+    // const targetLink = `https://jikipedia.com/search?phrase=${word}`;
     if (self) {
       window.location.href = targetLink;
     } else {
