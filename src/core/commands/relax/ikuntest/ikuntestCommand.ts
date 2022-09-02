@@ -3,13 +3,13 @@ import { defineAsyncComponent } from "vue";
 import ComponentOutputType = YuTerminal.ComponentOutputType;
 
 /**
- * ikun 测试（整活）
+ * 学习通快捷
  * @author yupi
  */
 const ikuntestCommand: CommandType = {
-  func: "ikuntest",
-  name: "ikun测试",
-  desc: "测试一下你是真 ikun 还是小黑子",
+  func: "xxt",
+  name: "学习通",
+  desc: "学习通快捷",
   options: [],
   collapsible: true,
   action(options, terminal) {

@@ -1,6 +1,6 @@
 <template>
   <div class="ikun-test-box" style="margin: 8px 0">
-    <iframe src="https://www.ikuntest.com" />
+    <iframe src="http://i.chaoxing.com/base?t=1662105556886" />
   </div>
 </template>
 
@@ -8,9 +8,7 @@
 
 <style scoped>
 .ikun-test-box > iframe {
-  border: none;
-  height: 640px;
-  width: 100%;
-  max-width: 420px;
+  
+  
 }
 </style>
